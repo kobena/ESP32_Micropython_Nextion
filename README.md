@@ -9,4 +9,4 @@ https://randomnerdtutorials.com/nextion-display-with-arduino-getting-started/
 which uses the Arduino Framework.
 
 1. Flash the Nextion display with the .tft file. Note i use NX4024K032 Enhanced model
-2. Go through the main code for the pin connection.
+2. Go through the main code for the pin assignment.
